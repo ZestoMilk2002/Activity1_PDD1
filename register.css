@@ -1,0 +1,42 @@
+@font-face {
+    font-family: "karmaticArcade";
+    src: url(fonts/KarmaticAracde/ka1.ttf);
+}
+@font-face {
+    font-family: "superfunky";
+    src: url(fonts/SuperFunky/Super\ Funky.ttf);
+}
+body {
+        background-image: url('bground/wallhaven-wqqerq.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        
+}
+.container{
+    background-color: transparent;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-top: 50px;
+}
+.par1{
+    font-family: "superfunky";
+    font-size: 19px;
+    margin-top: 20px;
+    color: #0F401C;
+}
+.card-title{
+    margin-left: 150px;
+    font-family: "superfunky";
+}
+.card{
+    background-color: #F5B041;
+}
+nav{
+    padding: 0;
+    font-size: 18px;
+    height: 45px;
+}
+.navbar-brand{
+    font-family: "superfunky";
+}
