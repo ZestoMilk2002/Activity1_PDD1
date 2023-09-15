@@ -1,10 +1,10 @@
 @font-face {
     font-family: "superfunky";
-    src: url(fonts/SuperFunky/Super\ Funky.ttf);
+    src: url(assets/fonts/SuperFunky/Super\ Funky.ttf);
 }
 @font-face {
     font-family: "vogue";
-    src: url(fonts/vogue/Vogue.ttf);
+    src: url(assets/fonts/vogue/Vogue.ttf);
 }
 
 body{

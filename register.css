@@ -1,13 +1,13 @@
 @font-face {
     font-family: "karmaticArcade";
-    src: url(fonts/KarmaticAracde/ka1.ttf);
+    src: url(assets/fonts/KarmaticAracde/ka1.ttf);
 }
 @font-face {
     font-family: "superfunky";
-    src: url(fonts/SuperFunky/Super\ Funky.ttf);
+    src: url(assets/fonts/SuperFunky/Super\ Funky.ttf);
 }
 body {
-        background-image: url('bground/wallhaven-wqqerq.png');
+        background-image: url('assets/bground/wallhaven-wqqerq.png');
         background-repeat: no-repeat;
         background-size: cover;
         
