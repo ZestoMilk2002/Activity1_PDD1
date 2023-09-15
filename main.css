@@ -1,11 +1,11 @@
 
 @font-face {
     font-family: "superfunky";
-    src: url(fonts/SuperFunky/Super\ Funky.ttf);
+    src: url(assets/fonts/superfunky/Super\ Funky.ttf);
 }
 @font-face {
     font-family: "karmaticArcade";
-    src: url(fonts/KarmaticAracde/ka1.ttf);
+    src: url(assets/fonts/KarmaticAracde/ka1.ttf);
 }
 @font-face {
     font-family: "";
@@ -15,7 +15,7 @@
     font-family: "superfunky";
 }
 body{
-    background-image: url('bground/wallhaven-wqqerq.png');
+    background-image: url('assets/bground/wallhaven-wqqerq.png');
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -24,11 +24,11 @@ body{
     font-family: "karmaticArcade";
 }
 .par1{
-    font-family: "SuperFunky";
+    font-family: "superfunky";
     color: #0F401C;
 }
 .par2{
-    font-family: "SuperFunky";
+    font-family: "superfunky";
     color: #0F401C;
 }
 nav{
